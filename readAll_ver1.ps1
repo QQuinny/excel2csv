@@ -2,7 +2,7 @@
 Import-Module ImportExcel
 
 # Define the path to the Excel file
-$excelFilePath = "C:\Users\jiaoxue\Documents\excel2csv\example.xlsx"
+$excelFilePath = "C:\Users\jiaoxue\Documents\0526_24\Excel_twosheets.xlsx"
 
 # Check if the Excel file exists
 if (-Not (Test-Path -Path $excelFilePath)) {
@@ -21,5 +21,5 @@ foreach ($worksheet in $worksheetNames) {
     # Write-Output $data
 
     # You can process the data further as needed
-    $data | Export-Csv -Path "C:\Users\jiaoxue\Documents\excel2csv\allsheets.csv" -NoTypeInformation -Append
+    $data | Export-Csv -Path "C:\Users\jiaoxue\Documents\0526_24\allsheets.csv" -NoTypeInformation -Append
 }
