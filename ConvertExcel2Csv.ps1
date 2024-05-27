@@ -34,3 +34,7 @@ try {
     Write-Error "Failed to export data to CSV: $_"
     exit 1
 }
+
+pause
+
+#Test it in singl file.
