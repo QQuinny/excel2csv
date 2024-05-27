@@ -1,7 +1,19 @@
 # excel2csv
 
-# Data Structures
 
+# Markdown tutorial
+- [Markdown tutorial](https://www.markdowntutorial.com/)
+- [Markdown Guide](https://www.markdownguide.org/)
+
+
+# How to duel boot Windows and Ubuntu?
+- Download Ubuntu from its [official website](https://cdimage.ubuntu.com/ubuntu-mate/releases/22.04/release/ubuntu-mate-22.04.4-desktop-amd64.iso)
+- Download [Rufus](https://rufus.ie/en/) to create bootable [USB drive](https://www.officedepot.com/a/products/5373668/Samsung-BAR-Plus-USB-31-Flash/?utm_source=google&utm_medium=cpc&mediacampaignid=71700000114524325_20538487834&utm_source=google&utm_medium=cpc&gad_source=1&gclid=Cj0KCQjw3tCyBhDBARIsAEY0XNm4Y6f6Axf1Z3o7kxQPKYGNbSHD9tPxGE4s_7UI41O10hz-WTxPcAEaAm7kEALw_wcB&gclsrc=aw.ds)
+- Install Ubuntu on Window 10/11 machine, following this [Youtube video](https://youtu.be/mXyN1aJYefc).
+
+
+
+# Data Structures
 
 Modules
 ---
